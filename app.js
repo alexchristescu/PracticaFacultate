@@ -4,10 +4,10 @@ var europeanCupSim = function() {
         a1 : {
             name: "Romania",
             ranking: 45,
-            squadValue: 178, // in £ Millions
-            teamWonBefore: false, // has won WC before?
+            squadValue: 178, 
+            teamWonBefore: false, 
             
-             // are they Russia?
+             
 
             xp: 0, 
             pts: 0,
